@@ -1,17 +1,14 @@
-# minecraft_remote_samples / Naohiro2g
+# minecraft_remote_ポケモン / 兒玉幸久
 
-Minecraft Remote（マイクラリモコン）のAPIを使いPythonでユーザーコードを書く出発点
+Minecraft Remote（マイクラリモコン）のAPIを使いPythonでユーザーコードを書きました
 ***
-このドキュメントは、Reveal.jsに対応しています。
+
 
 --
 
-## このリポジトリの内容
+## 内容
 
-Python環境をゼロから構築、コードを書いてマイクラ世界に自動建築するまでのガイド。Pythonがすでに動いている人は最短距離で。
-
-Python入門、Python開発入門として利用可能。
-
+私は好きなキャラクターをマイクラ上に出してみたいと思いました。
 --
 
 ### README（このファイル）

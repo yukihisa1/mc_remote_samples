@@ -1,6 +1,6 @@
 # minecraft_ポケモン / 兒玉幸久
 
-Starting point for writing Minecraft Remote user code in Python with its API
+ポケモン　グレイシア　描いてみた　
 
 
 ---
